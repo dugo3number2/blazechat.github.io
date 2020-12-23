@@ -1,2 +1,1 @@
 # blazechat.github.io
-cat
